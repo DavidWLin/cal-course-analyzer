@@ -1,0 +1,197 @@
+[
+    {
+        "class_name": "CS C8",
+        "quality_rating": 3.2,
+        "difficulty_rating": 3.1,
+        "sentiment": 0.2876059701492537,
+        "positive_comment": "I had absolutely no prior coding experience when I started Data8 last semester. There was a really steep learning curve for me because the initial python coding was not at all intuitive for me. I even failed the first midterm, which was pretty much all coding. I really wanted to quit but needed to complete the course as a quantitative major prereq for an unrelated major (psych), so I was determined! I started going to office hours often and found them super helpful for compleating projects/homework as well as reviewing the course captures slowly. About halfway through the semester, things really clicked and got so much easier. It's really just repetition and trial and error. The course is designed in a way that really challenges those without CS backgrounds at first, but it's honestly a really awesome course with a lot of resources and opportunities for earning points outside of exams. I had so much anxiety about my grade  all semester, but I ended up getting a B, and honestly learning so much and really enjoying looking at the data sets. The final is mostly stats instead of coding. It is really early still, and you will definately see a sudden increase in competency and confidence with coding if you put in the work. I say stick with it because you will learn so much and almost certainly do better then you think. Good luck!",
+        "negative_comment": "The midterm was more difficult this year but that was a mistake. The professor accidentally made it more difficult than was intended. The material for data 8 has stayed relatively the same over the last several years and there's been a similar grade distribution.",
+        "professors": [
+            "Ani Adhikari",
+            "David Wagner",
+            "Swupnil Sahai"
+        ]
+    },
+    {
+        "class_name": "CS 10",
+        "quality_rating": 3.7,
+        "difficulty_rating": 2,
+        "sentiment": 0.38797716049382697,
+        "positive_comment": "Most positive comment: Hello, I'm a current course staff with CS10. I'm very sorry to hear about your experience!! I recommend reaching out to your Lab TA first, letting them know you're having difficulties with labs. You lab TA will be able to help you to familiarize with Snap and lab questions, and direct you to other course resources, such as Office Hours, and free Tutoring. We can also extend your deadlines based on your circumstances. Trust us, we're all students ourselves, and we will do our best to go out of our way to help you succeed! You should also feel free to reach out to any course staff directly, there is no harm! The entire CS10 course staff is here for you",
+        "negative_comment": "Same here bruv I do be struggling with lab 4 already 😩😩 I’m probably gonna have to start going to tutoring",
+        "professors": [
+            "Joshua Hug",
+            "Michael Ball",
+            "Dan Garcia"
+        ]
+    },
+    {
+        "class_name": "CS 61A",
+        "quality_rating": 4.4,
+        "difficulty_rating": 4.2,
+        "sentiment": 0.30669871382636665,
+        "positive_comment": "You just need to be VERY VERY careful on the fine details of his exams and you'll be fine. Additionally, code is just logic. Logic can be spoken in different ways (English, Chinese, Spanish, Russian, Klingon, ... you get the idea). Code is just a more formalized way of speaking it. Start with Logic by writing it in a way that is understandable to YOU first (pseudocode and your best native language, not Java nor Python) If you need to use Python or Java to speak the logic, try your best not to, but feel free to for things like 'looping' (but be flexible on how to loop like recursion or while/for loops), but the reason you shouldn't usually is because things like Memoization can be done using Dictionaries / Maps, a linear search of a list, or linear search of a Linked List (this is just one example, btw, but hopefully the idea gets across). While one option may be better than another (especially for Complexity), your code is at the mercy of the exam question skeleton Treat Python (and Java in CS 61B, and your hardware should you bring this advice in CS 61C) as the tools of the trade when you program. It is your job to tell them what to do to bring them to your will! In regards to Projects, again, start writing in Logic first, not code, and definitely not both Logic and Code at the same time You will understand and know what you are doing in a way YOU understand it before writing code, instead of just hardcoding it. One good way to make sure you are doing this is if you are crushing a good majority of the discussion questions by having a good consensus in the non-code Logic of your solution and the Logic translation of the actual solution Then you just need to work on knowing how to speak the language of Python / Java / SQL / Scheme / any programming language If you click on my username, I have made similar posts about this kind of thing in the past and hope they also give more info than here",
+        "negative_comment": "Yes. Was top of my HS class and been coding actively for 6 years prior to taking 61A, still got the wind knocked out of me on both midterms because I thought I was better than the class. Was very humbling, but it really does teach you the rigorous fundamentals (albeit not always through the most orthodox problems...) Ultimately, like someone else said, it just comes down to practice, then intuition. I did not practice and ended up paying for it, but managed to end with an A because I was finally humbled and decided to practice for the final. Ignore anyone that says its easy, because regardless of who you are, the very format of the exams just inherently require practice, unfortunately Having prior programming experience can be a double edged sword, because you have to drop a lot of the practices you learn as a software engineer and learn to approach problems in a different way than what we we might be used to. All the while we feel incompetent in the face of our extensive experience",
+        "professors": [
+            "John DeNero",
+            "Paul Hilfinger",
+            "Brian Harvey"
+        ]
+    },
+    {
+        "class_name": "CS 61B",
+        "quality_rating": 4.2,
+        "difficulty_rating": 4,
+        "sentiment": 0.1707888475836431,
+        "positive_comment": "https://docs.google.com/spreadsheets/d/1NnwWn6fr_tUgMQ0Hr6698nv-VA03kc9CDBSSRmxgScY/edit#gid=0",
+        "negative_comment": "Just an FYI I dropped the course this semester but emailed Prof. Hug about advice since I found it so difficult. He acknowledged that the first projects were much more difficult than those in previous recent semesters. So don’t feel bad it’s just likely that 61B this semester might be more difficult than previous ones.",
+        "professors": [
+            "Joshua Hug",
+            "Paul Hilfinger",
+            "Jonathan Shewchuk"
+        ]
+    },
+    {
+        "class_name": "CS 61C",
+        "quality_rating": 4.5,
+        "difficulty_rating": 4,
+        "sentiment": 0.13617686832740206,
+        "positive_comment": "I don't think I ever read a thing for 61c and I did just fine.  Then again, I learn very well through lecture and took lots of notes.  It comes down to the individual and how they learn.But another person did mention P&H is a great book, and I'm sure it is.  So many it's worth looking at when you are confused from lecture.In 61c the most important learning components by far are the projects, and the homeworks are helpful too.  I'd make sure your focus is on the lectures and on those.  Especially if you're not taking exams for a grade (not sure what your situation is here) where you might benefit from the tiny details introduced in the readings.Edit:  Oh dear, I said \"another person.\"  Well that other person is Nick Weaver, who is one of the professors who often teaches 61c.  So probably take his word over mine haha!",
+        "negative_comment": "ive seen multiple posts being deleted in the past, including one post from someone named nicholas who literally wrote in the post that his *first* post was already deleted and this was a reupload...something doesnt sit right with me in how staff wants to keep complaints from being publicized. it gives them the chance to make people feel like their struggles/criticisms (which are common with others taking the class) arent being agreed with by the rest of the students taking the class when that’s simply not the case. keeping all their criticism to private posts (and the google form surveys with no real chance for individual instructor feedback) is just another way for them to keep ignoring criticism by telling people privately that theyll fix issues while deleting every public complaint that are clearly popular with the rest of the students. ive seen no real attempt from course staff to even put out a proper apology for what theyve done, said, and endorsed in past piazza posts/followups (did they just.. never address how TAs belittled people’s questions in OH by calling them \"googleable\" and hinting that people shouldnt go to OH for projects at all?).i genuinely love the professors lecturing styles and the course material is extremely interesting but ive just about had it with them not addressing the behavior instructor-side on piazza along with the actual complaints themselves (shit ass workload that was increased in remote learning, zero transparency at ALL with no fucking descriptions of ag tests when they keep referring to \"descriptive ag test names,\" etc.)",
+        "professors": [
+            "John Wawrzynek",
+            "Nicholas Weaver",
+            "Randy Katz"
+        ]
+    },
+    {
+        "class_name": "CS 70",
+        "quality_rating": 4,
+        "difficulty_rating": 3.2,
+        "sentiment": 0.13793951612903224,
+        "positive_comment": "Hey! I took 70 this spring so my experience might be a bit different with summer ver. of CS70 but here are my two cents. I personally think the best resources to prep for 70 are the course notes (they are on course website eecs70.org). They are very well-written and contain detailed explanations. My suggestion is trying to look over the first few notes about proofs and maybe graphs (I heard that stable matching wasn’t in scope for last summer; not sure about this summer). If you think you are fine with reading notes, then keep moving! On the other hand, if you find it’s a bit hard to absorb contents from the notes or kinda confused about notations and proofs, check out IMT decal website http: //imt-decal.org/. IMT notes are more intro-friendly version of basic proofs, modular arithmetic, and counting section of CS70. I think lectures won’t be that useful if you can understand most parts of notes on your own (note that I had professor Rao’s and Parekh’s lectures. Maybe Summer TA’s lectures might be worth it). Good luck!",
+        "negative_comment": "I thought second half is harder-- the discrete math kinda clicked for me really well, and for the second half I feel that you don't really get time to digest one concept before moving on to the next (might be the same for the first half over the summer especially, but it's worse if the concepts are interconnected like in probability) and I'm really poor at arithmetic so the fact that I had to do integrals and shit and get a final numerical answer (even tho that's not the focus of the problems) had me stressed. so you know, the emphasis of 70 probability is conceptual understanding, not necessarily using formulas-- there are some plug-and-chug questions but I also wouldn't get comfortable thinking that you're good to go if you know the formulas (I know this is not what you said in your post, but this is something a lot of students thought, including myself). the biggest thing for the second half I'd say is staying on track-- you're right that probability is less abstract/vague so the likelihood that you put a lot of time into studying and are still extremely lost is lower, but it's extra important that you *do* put in that amount of time since it goes so fast. take advantage of discussion and office hours, and do practice problems often so you can be proactive about clearing up your misconceptions. you definitely have a lot of chance to improve, even if you didn't do well on the midterm! you can do this!!! ",
+        "professors": [
+            "Satish Rao",
+            "Babak Ayazifar",
+            "Sanjit Seshia"
+        ]
+    },
+    {
+        "class_name": "CS 88",
+        "quality_rating": 3.3,
+        "difficulty_rating": 3.9,
+        "sentiment": 0.2929355555555555,
+        "positive_comment": "cs 88 was my first ever coding class and it was a nice transition + prepared me well enough for 61B so I would recommend",
+        "negative_comment": "I’m confused and i think you are too. I think you should prioritize. It’s unclear if you’re recruiting for cs internships or what. If you want to do a CS and not just the hype of CS Then drop an econ ass and focus on 88. if ur not going to try to do cs / cs internships then why stress over this class that you admittedly know won’t help ur chances of being cs. seems like a waste of energy/time",
+        "professors": [
+            "Michael Ball",
+            "Gerald Friedland",
+            "Gerald Friedland"
+        ]
+    },
+    {
+        "class_name": "CS C100",
+        "quality_rating": 4,
+        "difficulty_rating": 3.2,
+        "sentiment": 0.24788666666666667,
+        "positive_comment": "This class is legit, I went from D100 skills -> research -> internship -> job. Now granted I had a bunch of other skills but D100 really teaches you to start doing useful things with all the math/programming/etc that you've learned. If there was 1 CS/DS course I'd recommend for real-world applicability, it would be D100.",
+        "negative_comment": "Idk why, but I thought it was hella hard. Will be lucky to get half right :/",
+        "professors": [
+            "Alvin Wan",
+            "Fernando Perez",
+            "Ani Adhikari"
+        ]
+    },
+    {
+        "class_name": "CS C164",
+        "quality_rating": 4,
+        "difficulty_rating": 3.2,
+        "sentiment": 0.17643750000000002, 
+        "positive_comment": "Anecdotally, I had Hilfinger for 164 and it was great. The projects were super hard, but I still enjoyed them. If you can wait, I'd recommend it.",
+        "negative_comment": "Ask on the CS Facebook Group to get actual people to respond to and learn their names. Who the hell uses Reddit to find project partner? That's worse than Piazza's teammate search.",
+        "professors": [
+            "Paul Hilfinger",
+            "Justin Lubin",
+            "Sarah Chasins"
+        ]
+    },
+    {
+        "class_name": "CS 170",
+        "quality_rating": 4.3,
+        "difficulty_rating": 3.5,
+        "sentiment": 0.21854088888888903,
+        "positive_comment": "I liked the class, it really helps you think through algorithmic problems and ways of solving them. This kind of stuff honestly made little sense to me in 61b but 170 really solidified my understanding.",
+        "negative_comment": "YO HDIPAUWHDIUAWHDAWUDHIALUWHDLi FUCK ME BOSS IM GOING TO TAKE A SHIT IMMA EAT ABES PIZZA AND FUCK OFF TO THE MOON FUCK THIS",
+        "professors": [
+            "Jelani Nelson",
+            "Alessandro Chiesa",
+            "Satish Rao"
+        ]
+    },
+    {
+        "class_name": "CS 186",
+        "quality_rating": 4.5,
+        "difficulty_rating": 3,
+        "sentiment": 0.13624387755102044,
+        "positive_comment": "IMO 186 is the most practical class, 162 slightly less so but also pretty practical",
+        "negative_comment": "never thought the **D** could hurt so bad :'( #iykyk",
+        "professors": [
+            "Joshua Hug",
+            "Laskhya Jain",
+            "Joseph Hellerstein"
+        ]
+    },
+    {
+        "class_name": "CS 188",
+        "quality_rating": 4.5,
+        "difficulty_rating": 3,
+        "sentiment": 0.13624387755102044,
+        "positive_comment": "Order doesn’t matter, they’re completely different classes. I haven’t taken 127 but I took 188 and know the workload is very light.",
+        "negative_comment": "never thought the **D** could hurt so bad :'( #iykyk",
+        "professors": [
+            "Pieter Abbeel",
+            "Anca Dragan",
+            "Stuart Russell"
+        ]
+    },
+    {
+        "class_name": "CS 189",
+        "quality_rating": 3.3,
+        "difficulty_rating": 5,
+        "sentiment": 0.2791180555555556,
+        "positive_comment": "At the end of the day, machine learning is hard, the math is hard, and it might be harder than all of your other classes, but not necessarily that much harder. In other words, you’ve already been prepped numerous times on hard mathematical based classes and hard coding classes by the time you take this class, so it’s not like it’s a quantum jump. I consider Professor Shewchuk to be a great teacher, and if you can take it with him, you’ll learn a ton",
+        "negative_comment": "His no partial credit policy on the multiple choice sucks balls",
+        "professors": [
+            "Jennifer Listgarten",
+            "Jitendra Malik",
+            "Jonathan Shewchuk"
+        ]
+    },
+    {
+        "class_name": "EECS 16A",
+        "quality_rating": 4.3,
+        "difficulty_rating": 3.4,
+        "sentiment": 0.20450325581395354,
+        "positive_comment": "Don't be too quick to count it out. The material was honestly pretty interesting and is applicable if you're interested in doing anything cs theory related. Homeworks and labs can be annoying, but they're pretty useful for actually understanding wtf is going on. I took 54 previous semester and there was actually a bunch of lin alg I didn't conceptually understand until now. Maybe it's cause I love lin alg and controls, but if not for long homeworks, somewhat stressful labs, and weird quips during teaching of some concepts, I'd say this is my favorite class at Cal first year. My actual favorite is 70 cause it was overall better taught tho.",
+        "negative_comment": "It's pretty disappointing this class is still shit after 10 years. This class had the stupidest curves I had ever experienced. For a midterm, I believe I got around a 19% and it was curved to a B. And yeah, as a CS graduate I have used exactly 0 knowledge from this class in my career.",
+        "professors": [
+            "Michael Lustig",
+            "Gireeja Ranade",
+            "Vladimir Stojanovic"
+        ]
+    },
+    {
+        "class_name": "EECS 16B",
+        "quality_rating": 3.3,
+        "difficulty_rating": 5,
+        "sentiment": 0.08813828382838283,
+        "positive_comment": "YALL I PASSED 16B (was 3.7 points away from C-)",
+        "negative_comment": "16B is the worst class I've ever taken. It actually only gets better. In my experience, anyway.",
+        "professors": [
+            "Anant Sahai",
+            "Vladimir Stojanovic",
+            "Murat Arcak"
+        ]
+    }
+]

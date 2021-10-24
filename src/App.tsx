@@ -8,7 +8,7 @@ import AddToDo from './AddToDo';
 import { TodoItem } from './TodoItem';
 
 import TodoInterface from './TodoInterface';
-import Data from "./mock-data.json";
+import Data from "./course-data.json";
 import ClassInfo from './ClassInfo';
 
 // import { PropertyControls, ControlType, Frame } from "framer";
